@@ -13,6 +13,7 @@ permalink: /
 
 #### プリキュアシリーズ
 ![image](/GHPages_WebSite/assets/images/live.png)
+[リンク](https://www.toei-anim.co.jp/tv/delicious-party_precure/)
 
 
 ---
