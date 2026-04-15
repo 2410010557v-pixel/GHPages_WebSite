@@ -9,11 +9,12 @@ permalink: /
 
 ## すきなもの  
 #### アイカツ！シリーズ
-![image](/GHPages_WebSite/assets/images/アイカツ.png)
+  ![image](/GHPages_WebSite/assets/images/アイカツ.png)
 
 #### プリキュアシリーズ
-![image](/GHPages_WebSite/assets/images/live.png)
-[リンク](https://www.toei-anim.co.jp/tv/delicious-party_precure/)
+  ![image](/GHPages_WebSite/assets/images/live.png)
+
+  [リンク](https://www.toei-anim.co.jp/tv/delicious-party_precure/)
 
 
 ---
