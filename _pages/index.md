@@ -12,6 +12,7 @@ permalink: /
 ![image](/GHPages_WebSite/assets/images/アイカツ.png)
 
 #### プリキュアシリーズ
+![image](//assets/images/live.png)
 
 
 ---
