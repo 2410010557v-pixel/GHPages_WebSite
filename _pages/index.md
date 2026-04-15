@@ -14,7 +14,7 @@ permalink: /
   [リンク](https://www.aikatsu.net/portal/series/)
 
 #### プリキュアシリーズ
-  ![image](/GHPages_WebSite/assets/images/live.png)
+  ![image](/GHPages_WebSite/assets/images/デリシャスパーティ.png)
 
   [リンク](https://www.toei-anim.co.jp/tv/delicious-party_precure/)
 
