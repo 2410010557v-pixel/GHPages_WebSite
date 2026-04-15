@@ -11,12 +11,12 @@ permalink: /
 #### アイカツ！シリーズ
   ![image](/GHPages_WebSite/assets/images/スクリーンショット_アイカツ.png)
   
-  [リンク](https://www.aikatsu.net/portal/series/)
+  [リンク](https://www.aikatsu.net/portal/series/)  
 
 #### プリキュアシリーズ
   ![image](/GHPages_WebSite/assets/images/デリシャスパーティ.png)
 
-  [リンク](https://www.toei-anim.co.jp/tv/delicious-party_precure/)
+  [リンク](https://www.toei-anim.co.jp/tv/delicious-party_precure/)  
 
 
 ---
