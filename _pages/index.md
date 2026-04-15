@@ -9,7 +9,7 @@ permalink: /
 
 ## すきなもの  
 #### アイカツ！シリーズ
-  ![image](/GHPages_WebSite/assets/images/スクリーンショット 2026-04-15 193013.png)
+  ![image](/GHPages_WebSite/assets/images/スクリーンショット_アイカツ.png)
   
   [リンク](https://www.aikatsu.net/portal/series/)
 
