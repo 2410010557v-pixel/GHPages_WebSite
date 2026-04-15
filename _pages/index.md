@@ -10,6 +10,8 @@ permalink: /
 ## すきなもの  
 #### アイカツ！シリーズ
   ![image](/GHPages_WebSite/assets/images/アイカツ.png)
+  
+  [リンク](https://www.aikatsu.net/portal/series/)
 
 #### プリキュアシリーズ
   ![image](/GHPages_WebSite/assets/images/live.png)
@@ -54,4 +56,3 @@ permalink: /
 | 内容  | 内容  |
 | 内容  | 内容  |
 
-![image](/GHPages_WebSite/assets/images/アイカツ.png)
