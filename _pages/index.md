@@ -51,4 +51,4 @@ permalink: /
 | 内容  | 内容  |
 | 内容  | 内容  |
 
-![image](/assets/images/アイカツ.png)
+![image](/GHPages_WebSite/assets/images/アイカツ.png)
